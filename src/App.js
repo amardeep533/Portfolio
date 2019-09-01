@@ -16,7 +16,7 @@ class App extends Component {
             <div>
                 <img src={profile} alt='profile' className='profile'/>
                 <h1>Amardeep Singh</h1>
-                <p>I am a Software Engineer at Amazon AWS</p>
+                <p>I am a Software Engineer at Amazon Amazon Web Services</p>
                 <p>I am trying to learn react</p>
                 {
                     this.state.displayBio ? (
