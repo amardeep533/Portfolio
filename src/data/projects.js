@@ -6,7 +6,7 @@ import project3 from '../assets/project3.png'
 const PROJECTS = [
     {
         id:1,
-        title: 'AwsForGolang',
+        title: 'GolangOnAWS',
         description: 'AWS SDK for Java Developer Guide',
         link: 'https://github.com/amardeep533/aws-doc-sdk-examples',
         image: project1
