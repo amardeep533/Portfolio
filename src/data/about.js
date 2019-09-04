@@ -45,7 +45,7 @@ const ABOUT = [
         points: [
             {
                 id: 1,
-                details: 'Strong Oral and Written Communication.'
+                details: 'Strong Oral and Written Communication'
             },
             {
                 id: 2,
