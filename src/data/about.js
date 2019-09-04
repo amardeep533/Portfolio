@@ -7,7 +7,7 @@ const ABOUT = [
         points: [
             {
                 id: 1,
-                details: 'Programming: Core Java (Collections, Multithreading, IO, etc.), Python, Ruby on Rails, Data Structure, Algorithm, Docker.'
+                details: 'Programming: Core Java (Collections, Multithreading, IO, etc.), Python, Ruby on Rails, Data Structure, Algorithm, Docker'
             },
             {
                 id: 2,
@@ -19,23 +19,23 @@ const ABOUT = [
             },
             {
                 id: 4,
-                details: 'Tools/IDE: Eclipse, SVN, GitHub, Maven, JUnit, Para Soft SOA Test, XML Spy, HPQC.'
+                details: 'Tools/IDE: Eclipse, SVN, GitHub, Maven, JUnit, Para Soft SOA Test, XML Spy, HPQC'
             },
             {
                 id: 5,
-                details: 'Expertise in using Java/J2EE design patterns.'
+                details: 'Expertise in using Java/J2EE design patterns'
             },
             {
                 id: 6,
-                details: 'Experienced in analysis, design, development, testing and delivery of applications.'
+                details: 'Experienced in analysis, design, development, testing and delivery of applications'
             },
             {
                 id: 7,
-                details: 'Experienced on the JUnit framework for testing the applications.'
+                details: 'Experienced on the JUnit framework for testing the applications'
             },
             {
                 id: 8,
-                details: 'Experienced using databases like DB2, MySQL, etc.'
+                details: 'Experienced using databases like DB2, MySQL, etc'
             }
         ]
     },
