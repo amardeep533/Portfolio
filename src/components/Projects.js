@@ -20,7 +20,6 @@ class Projects extends Component {
     render() {
         return (
             <div>
-                <h2>Highlighted Projects</h2>
                 <div>
                     {
                         PROJECTS.map(PROJECT => {
