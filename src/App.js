@@ -5,6 +5,7 @@ import About from './components/About'
 import profile from './assets/profile.jpeg';
 import Tabs from "./components/Tabs";
 import glamorous from "glamorous";
+import DataTree from './components/DataTree';
 
 const styles = {
     fontFamily: "sans-serif",
@@ -32,6 +33,9 @@ const TabComponent = () => (
             </Tabs.Tab>
             <Tabs.Tab id="tab5" title="Published Papers">
                 <glamorous.Div padding={20}><h2>Published Papers section coming soon</h2></glamorous.Div>
+            </Tabs.Tab>
+            <Tabs.Tab id="tab6" title="Data Tree Prototype">
+                <glamorous.Div padding={20}><DataTree/></glamorous.Div>
             </Tabs.Tab>
         </Tabs>
     </div>
