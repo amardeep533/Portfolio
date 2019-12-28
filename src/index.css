@@ -39,51 +39,38 @@ h5 {
 }
 
 .items {
-    padding   : 30px;
-    text-align: left;
+    padding         : 30px;
+    text-align      : left;
+}
+
+.red-node {
+	fill: red;
+	stroke: red;
 }
 
 div.custom-container {
-    background-color: #242424;
+	background-color: #242424;
 }
 
 svg.custom .node circle {
-    fill        : rgb(114, 116, 121);
-    stroke      : rgb(184, 115, 37);
-    stroke-width: 5px;
+	fill: #F3F3FF;
+	stroke: #2593B8;
+	stroke-width: 5px;
 }
 
 svg.custom .node text {
-    font-size       : 15px;
-    background-color: #444;
-    fill            : rgb(26, 23, 23);
-    text-shadow     : 0 1px 4px black;
+	font-size: 15px;
+	background-color: #444;
+	fill: #F4F4F4;
+	text-shadow: 0 1px 4px black;
 }
 
 svg.custom .node {
-    cursor: pointer;
+	cursor: pointer;
 }
 
 svg.custom path.link {
-    fill        : none;
-    stroke      :rgba(235, 130, 11, 0.822);
-    stroke-width: 5px;
-}
-
-
-.node text {
-    font-size       : 11px;
-    font-family     : "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: black;
-    fill            : black;
-}
-
-.node {
-    cursor: pointer;
-}
-
-path.link {
-    fill        : none;
-    stroke      : rgba(235, 130, 11, 0.822);
-    stroke-width: 1.5px;
+	fill: none;
+	stroke: #2593B8;
+	stroke-width: 5px;
 }

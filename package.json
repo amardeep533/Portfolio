@@ -9,9 +9,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "react-tree-graph": "^4.0.1",
-    "sweetalert2": "^9.3.16",
-    "sweetalert2-react-content": "^2.0.2"
+    "react-tree-graph": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
